@@ -1,5 +1,5 @@
 # Farm-Bot
-A CNC (Computerized Numberical Control) is created which moves in 3 axes to a specified location. 3 stepper motors are used for movement in each direction.
+A CNC (Computerized Numerical Control) is created which moves in 3 axes to a specified location. 3 stepper motors are used for movement in each direction.
 A camera is installed on the CNC head which captures image of the field and uploads to the firebase.
 DHT11 temperature and humidity sensor, soil moisture sensor and LDR are installed on the CNC which gathers real-time information about the surroundings and uploads the data to the firebase.
 

@@ -15,3 +15,6 @@ The head then moves to the next crop and continues the same process.
 Once every crop is checked, the head moves to the origin.
 
 The android app is used for viewing the sensor data in a graphical manner and the image of the field.
+
+
+The CNC.mp4 is the actual prototype setup which illustrates the movement in 3D space.
